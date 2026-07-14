@@ -1,0 +1,3 @@
+[submodule "child-repo"]
+	path = child-repo
+	url = https://github.com/vaikale1/SCM_SUBMODULE_child.git
